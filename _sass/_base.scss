@@ -89,6 +89,12 @@ a, table.table a {
   opacity: 0.95;
 }
 .navbar.navbar-light {
+  a[href*="Curriculum_Vitae.pdf"] {
+    color: var(--global-text-color);
+    &:hover {
+      color: var(--global-hover-color);
+    }
+  }
   a {
     &:hover {
       text-decoration: none;
