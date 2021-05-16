@@ -32,4 +32,4 @@ I use behavioral methods to study developers as users of their programming tools
 
 My research goal is to understand how human-computer interactions can contribute to software engineering.
 
-My work focus on evaluating and applying visual analytics and program comprehension techniques to facilitate program-analysis comprehension and software debugging. I use interactive software models to enable the engineers to learn about their code while viewing and manipulating its graphical representation. 
+My work focuses on evaluating and applying visual analytics and program comprehension techniques to facilitate program-analysis comprehension and software debugging. I use interactive software models to enable the engineers to learn about their code while viewing and manipulating its graphical representation. 
