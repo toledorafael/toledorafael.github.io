@@ -33,3 +33,5 @@ I use behavioral methods to study developers as users of their programming tools
 My research goal is to provide efficient interfaces for analyzing and comprehending the behaviour of large heterogeneous systems. I work under the supervision of Prof. [Joanne Atlee](https://cs.uwaterloo.ca/~jmatlee/index.shtml). I am a member of the [Waterloo Formal Methods Group (WatForm)](https://watform.uwaterloo.ca/), which is a joint Computer Science and Electrical Computer Engineering research group that investigates mathematical methods to aid in the design and verification of software systems.
 
 My work focuses on evaluating and applying visual analytics, graph visualization, and program comprehension techniques to facilitate program-analysis comprehension and software debugging. I use interactive software models to enable the engineers to query, explore, and identify undesired behaviour of their programs.
+
+{% twitter https://twitter.com/toledorafael maxwidth=500 %}
