@@ -38,5 +38,5 @@ Introduction to object-oriented programming and to tools and techniques for soft
 
 ---
 
-###### [CS 246 - Object-Oriented Software Development](https://student.cs.uwaterloo.ca/~cs246/) (F18, S19)
+###### [CS 246 - Object-Oriented Software Development](https://student.cs.uwaterloo.ca/~cs246/) (Fall 2018, Spring 2019)
 This course introduces students to basic UNIX software development tools and object-oriented programming in C++ to facilitate designing, coding, debugging, testing, and documenting medium-sized programs. Students learn to read a specification and design software to implement it. Important skills are selecting appropriate data structures and control structures, writing reusable code, reusing existing code, understanding basic performance issues, developing debugging skills, and learning to test a program.
