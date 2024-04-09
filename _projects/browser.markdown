@@ -4,7 +4,7 @@ title: Neo4j SPL Browser
 description:
 img: /assets/img/twofiltersV2.png
 importance: 1
-category: variability-aware analysis
+category: browser
 ---
 
 Click [here](https://toledorafael.github.io/neo4j-browser/) to access the prototype.
