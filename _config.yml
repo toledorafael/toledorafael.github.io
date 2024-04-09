@@ -88,7 +88,7 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
 
 news_limit: 5
@@ -142,7 +142,7 @@ github: [metadata]
 scholar:
 
   last_name: Toledo
-  first_name: [Rafael, R.]
+  first_name: [Rafael F, R.F., Rafael F.]
 
   style: apa
   locale: en
