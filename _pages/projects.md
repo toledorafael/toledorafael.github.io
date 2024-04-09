@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 display_categories: [browser]
-horizontal: true
+horizontal: false
 ---
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
