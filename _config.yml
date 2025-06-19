@@ -81,7 +81,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Collections
 # -----------------------------------------------------------------------------
 
-# collections:
+collections:
 #   news:
 #     defaults:
 #       layout: post
