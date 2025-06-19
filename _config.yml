@@ -81,11 +81,11 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Collections
 # -----------------------------------------------------------------------------
 
-collections:
-  news:
+# collections:
+  # news:
 #     defaults:
 #       layout: post
-    output: false
+    # output: false
 #     permalink: /news/:path/
   # projects:
   #   output: false
