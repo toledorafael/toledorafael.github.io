@@ -81,17 +81,17 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Collections
 # -----------------------------------------------------------------------------
 
-collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /news/:path/
-  projects:
-    output: false
-    permalink: /projects/:path/
+# collections:
+#   news:
+#     defaults:
+#       layout: post
+#     output: true
+#     permalink: /news/:path/
+#   projects:
+#     output: false
+#     permalink: /projects/:path/
 
-news_limit: 5
+# news_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
