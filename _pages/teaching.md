@@ -21,6 +21,12 @@ Introduction to object-oriented programming and to tools and techniques for soft
 
 ##### **Teaching Assistant**
 
+###### [CS 136L: Tools and Techniques for Software Development](https://student.cs.uwaterloo.ca/~cs136l/) (Winter 2025)
+This course introduces students to tools and techniques useful in the software development lifecycle. Students learn to navigate and leverage commands and utilities in the Linux Command Line Shell. Students gain experience in version control software, writing scripts to automate tasks, and creating effective test cases to identify bugs. Tracing and debugging strategies are discussed. Students also gain experience in using built-in support for version control, testing, debugging, build automation, etc. in integrated development environments (IDEs).
+
+###### [CS 346 - Application Development](https://student.cs.uwaterloo.ca/~cs346/1251/welcome.html) (Winter 2025)
+This course is about designing and building software. Modern software is often too complex for a single person to develop independently. By working together, students use best practices to design and build a commercial-quality, robust, full-featured application, using a modern technology stack. As much as possible, the course aims to explore modern and effective development techniques.
+
 ###### [CS 445/645/ECE 451 - Software Requirements Specification & Analysis](https://student.cs.uwaterloo.ca/~cs445/) (Winter 2021, Winter 2022)
 This course introduces students to the requirements definition phase of software development. It discusses processes, models, and notations, and processes for software requirements elicitation, identification, analysis, modeling, representation, specification, and validation. An important component is a group project: the software requirements specification of a large software system.
 
